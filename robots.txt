@@ -1,0 +1,12 @@
+
+
+
+
+
+<div data-w-id="5fed6db8-b67f-17dd-2eb7-a1d9616fb476" class="block-footer">
+        <h5 class="heading-footer">Template</h5><a href="template-info/licensing.html"
+          class="link-footer">Licensing</a><a href="template-info/style-guide.html" class="link-footer">Style
+          Guide</a><a href="template-info/changelog.html" class="link-footer">Changelog</a><a href="https://icons8.com/"
+          target="_blank" class="link-footer">Icons by Icons8</a>
+        <div class="into-view-fill dark"></div>
+      </div>
